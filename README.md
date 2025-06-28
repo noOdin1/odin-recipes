@@ -20,4 +20,6 @@ This first project/assignment is introduced after the following topics were cove
     - Introduction to HTML and CSS - I already have some knowledge in both topics
     - Creating an HTML boilerplate, elements and tags
     - Text, list, links and images
-    - Git commit messages, guidelines
+    - Git commit messages, guidelines. Currently also learning Git from other sources.
+
+
